@@ -1,0 +1,5 @@
+package com.manju.microservices.currency_exchange_service;
+
+public class CurrencyExchangeController {
+
+}

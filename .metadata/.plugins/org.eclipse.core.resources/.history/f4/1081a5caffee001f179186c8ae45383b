@@ -1,0 +1,5 @@
+package com.manju.microservices.currency_conversion_service;
+
+public class CurrencyConversionController {
+
+}

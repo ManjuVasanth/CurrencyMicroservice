@@ -1,0 +1,5 @@
+package com.manju.microservices.limits_services.configuration;
+
+public class Configuration {
+
+}
